@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="org">#C65E3D</color>
+    <color name="lb">#E0F3FF</color>
+    <color name="lp">#A063AA</color>
+    <color name="yellow">#FCFFB300</color>
+    <color name="red_active">#E64033</color>
+    <color name="blue_active">#45C1F8</color>
+    <color name="green_active">#60F167</color>
+    <color name="yellow_active">#E8D63C</color>
+    <color name="red_inactive">#DD6262</color>
+    <color name="blue_inactive">#90B2CF</color>
+    <color name="green_inactive">#6EA671</color>
+    <color name="red_bg_light">#F2FFEBEE</color>
+    <color name="chat_color">#6C63FF</color>
+    <color name="invisible">#00ffffff</color>
+    <color name="backgroundColor1">#DAC7CED1</color>
+    <color name="backgroundColor">#ffffff</color>
+    <color name="textColor">#19174C</color>
+    <color name="strokecol">#EB5C99A1</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="lavender">#8692f7</color>
+\
+    <color name="my_light_primary">#422D68</color>
+</resources>

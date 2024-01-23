@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "169667435744",
+    "firebase_url": "https://arunapytoapp-default-rtdb.firebaseio.com",
+    "project_id": "arunapytoapp",
+    "storage_bucket": "arunapytoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169667435744:android:3e69f7bbb5e5c9ce170485",
+        "android_client_info": {
+          "package_name": "com.example.artcraf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_J19il0buGx0vgGLO8lceRM6LXY9A1CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169667435744:android:d2b96da8f5cc467d170485",
+        "android_client_info": {
+          "package_name": "com.example.artdraw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_J19il0buGx0vgGLO8lceRM6LXY9A1CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
